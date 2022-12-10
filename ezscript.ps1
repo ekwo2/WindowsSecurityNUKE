@@ -9,7 +9,7 @@
 ""
 $ConfirmPreference = 'None'
 #adjust this variable below before running, leave the quotes
-$user = 'ADJUSTMEBEFORERUNNING'
+$user = 'eleven'
 
 
 $option = Read-Host '
